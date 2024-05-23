@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930070246142",
+    "project_id": "chatuyg-2128d",
+    "storage_bucket": "chatuyg-2128d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930070246142:android:199ba49475ebb55fdcebaf",
+        "android_client_info": {
+          "package_name": "com.example.chatuyg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAnwPPYym-nDCHHuc8Jr73qeo2hQbOSOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
